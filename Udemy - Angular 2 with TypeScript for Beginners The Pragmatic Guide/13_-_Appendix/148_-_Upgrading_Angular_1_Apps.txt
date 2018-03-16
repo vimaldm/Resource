@@ -1,0 +1,5 @@
+Here is the official documentation from Angular website walking you through various strategies to upgrade Angular 1 apps to Angular 2.
+
+
+
+  https://angular.io/docs/ts/latest/guide/upgrade.html

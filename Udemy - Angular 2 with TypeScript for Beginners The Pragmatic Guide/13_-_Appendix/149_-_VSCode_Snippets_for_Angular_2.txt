@@ -1,0 +1,5 @@
+With these snippets you can quickly create a component, pipe or a service.
+
+
+
+  https://github.com/johnpapa/vscode-angular2-snippets
